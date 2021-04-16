@@ -1,4 +1,6 @@
 node_modules/**/*
+keys.js
+firebase.js
 .expo/*
 npm-debug.*
 *.jks
